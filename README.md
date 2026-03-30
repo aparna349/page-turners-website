@@ -19,7 +19,7 @@ A frontend book-themed website built using HTML, CSS, and JavaScript.
 
 ## Live Demo
 
-(Add your GitHub Pages link here)
+https://aparna349.github.io/page-turners-website/
 
 ## Author
 
